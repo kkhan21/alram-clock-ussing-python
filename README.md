@@ -61,4 +61,6 @@ Finally make the input boxes such as hourTime, minTime, and secTime which takes 
 Clock.mainloop() is the basic and the last command was given to compile all the previous commands with their basic settings of color, font, width, axis, etc. and displays the window as soon as the program is run.
 
 Sample Output:
+
+
 ![WhatsApp Image 2023-05-27 at 8 23 30 AM](https://github.com/kkhan21/alram-clock-ussing-python/assets/127279622/ba960470-5133-457e-ba7b-49548bb2d66f)
